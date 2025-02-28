@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <title>HomePage</title>
+    <link rel="stylesheet" href="Style.css">
+</head>
+
+<body>
+    <header id="home_header">
+        <div id="home_logo">MyWebsite</div>
+        <nav id="home_nav">
+            <ul id="home_nav-links">
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#services">Services</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Hero Section -->
+    <section id="home_hero">
+        <h1 id="home_hero-title">Welcome to the Website</h1>
+        <p id="home_hero-text">Your go-to place for awesome content.</p>
+        <a href="#" id="home_btn">Sign Up</a>
+    </section>
+
+    <!-- Footer -->
+    <footer id="home_footer">
+        <p>&copy; 2025 MyWebsite. All rights reserved.</p>
+    </footer>
+</html>
